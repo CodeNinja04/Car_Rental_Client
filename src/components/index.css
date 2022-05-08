@@ -1,0 +1,32 @@
+.landing-wrapper {
+    /* display: table; */
+    /* width: 100%; */
+    
+    height: 100%;
+    color: white;
+    padding: 0%;
+    font-size: large;
+    /* border: 10px solid black */
+  }
+
+#heading {
+
+    text-align: center;
+    font-size: xx-large;
+    height: max-content;
+    
+    font-weight: bold;
+    margin-top: 2%;
+    margin-bottom:1%;
+    /* border: 10px solid; */
+}
+
+.car-input {
+
+  color:white;
+  
+  border: 1px solid rgb(25, 144, 234);
+  background-color: whitesmoke;
+  
+
+}
